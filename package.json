@@ -1,0 +1,14 @@
+{
+  "name": "antaaff",
+  "version": "3.9.1",
+  "description": "luben",
+  "main": "luben",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
